@@ -23,7 +23,8 @@ public class arraysum {
 
 
         int[] arc = {
-        100,200,300
+        100,200,300,
+        400,500,600
         };
         arraysum s = new arraysum();
         int ss = s.simpleArraySum(arc);
