@@ -6,7 +6,7 @@ Q872 logic not ocmplete
 # class TreeNode:
 #     def __init__(self, x):
 #         self.val = x
-#         self.left = None
+#         self.left = Nonehh
 #         self.right = None
 
 l = []
